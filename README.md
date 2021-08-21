@@ -1,5 +1,4 @@
 # GrSRs
-This repository contains the R codes for the project of "host growth rate and viral infection".
 
 To explore how temperature and population dynamic features modulate the GrSR, we set up a mathematical model of host-viral interactions. 
 Briefly, we assumed that each step of the infection cycle is temperature dependent, all virus species are ecologically equivalent and that the size of the virus set for a species follows a Poisson distribution. 
